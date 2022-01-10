@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "printAll":"dir intro",
+    "printAll":"dir",
     "createDir": "MD test",
     "copyToDir": "copy C:/Users/HP/Desktop/תכנות/React/projects/intro test"
    
